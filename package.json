@@ -1,0 +1,9 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "biken nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/BiKenOKVIP/blog.git",
+  "author": "biken",
+  "license": "MIT"
+}
